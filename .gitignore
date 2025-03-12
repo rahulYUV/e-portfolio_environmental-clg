@@ -1,4 +1,4 @@
 node_modules
 temp.js
 .env
-views(ignore for now)
+views
